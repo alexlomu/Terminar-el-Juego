@@ -1,7 +1,7 @@
 # Terminar-el-Juego
 
 Mi dirección de GitHub para este repositorio es la siguiente: [GitHub](https://github.com/alexlomu/Terminar-el-Juego)
-https://github.com/alexlomu/Terminar-el-Juego
+https://github.com/alexlomu/Terminar-el-Juego.
 Hemos creado un juego de adivinar un número generado al azar dentro de unos parámetros con diferentes niveles de dificultad y dos modos de juego, el primero en el que es el jugador quien intenta adivinar el número y el segundo en el es la Inteligencia Artificial quien ha de adivinar este número.
 El diagrama de flujo que tenemos en nuestro código es el siguiente:
 ![terminar trabajo figma 1](https://user-images.githubusercontent.com/91721507/141656409-fd150a9c-0701-40be-b3d5-d7e77f071d13.JPG)
