@@ -61,7 +61,7 @@ def comparar_numeros():
 def comparar_numeros_ia(num_min, num_max, jugadas_max):
     jugadas = 0
     while jugadas <= jugadas_max:
-        x = num_max - num_min
+        x = num_max + num_min
         numero_ia = int(x/2)
         print("La IA ha probado con", str(numero_ia))
         jugadas += 1
